@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/api-examples.html",
-      "destination": "/markdown-examples.html"
+      "source": "/api-examples",
+      "destination": "/markdown-examples"
     }
   ],
   "rewrites": [
