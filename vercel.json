@@ -4,11 +4,5 @@
       "source": "/api-examples",
       "destination": "/markdown-examples"
     }
-  ],
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/"
-    }
   ]
 }
